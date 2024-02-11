@@ -1,2 +1,3 @@
 # Python
-The Complete Python Pro Bootcamp for 2022
+The Complete Python Pro Bootcamp
+
